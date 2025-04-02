@@ -12,3 +12,9 @@
     color: #00f;
     font-size: 36px;
 }
+
+#bold-info {
+    background-color: #60ef8a;
+    font-weight: bold;
+    font-size: 24px;
+}
